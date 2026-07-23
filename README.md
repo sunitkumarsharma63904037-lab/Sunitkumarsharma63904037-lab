@@ -9,18 +9,19 @@ Currently learning Machine Learning & Deep Learning 📚
 - 🔭 I’m currently working on AI/ML Projects
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 🤝 I’m looking to collaborate on AI Projects
-- 💬 Ask me about Python, ML Basics
+- 💬 Ask me about Python, Pandas, NumPy, Machine Learning
 - ⚡ Fun fact: I love solving real-world problems using AI 😎
 
 ---
 
 🛠 Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F26F21?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>---
+<p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br><img src="https://img.shields.io/badge/Machine%20Learning-F26F21?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/><br><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/></p>---
 
 📌 Projects
 
