@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--
-```markdown
+
 # Hello there! 👋
 
 ### I'm Sunit Kumar Sharma
@@ -38,4 +37,3 @@ Aspiring AI/ML Engineer | Python Developer dedicated to building real-world proj
 ## 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=sunitkumarsharma63904037-lab&theme=radical)](https://github.com/sunitkumarsharma63904037-lab)
-'''
