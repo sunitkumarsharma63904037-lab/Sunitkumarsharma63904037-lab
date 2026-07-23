@@ -1,59 +1,57 @@
-Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunit Kumar Sharma</h1>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | Python Developer</h3><p align="center">
+I am passionate about building real-world AI/ML projects like Spam Detection Systems 🤖 and Chatbots 💬.<br>
+Currently learning Machine Learning & Deep Learning 📚
+</p>---
 
-Hello there! 👋
+🚀 About Me
 
-I'm Sunit Kumar Sharma
-
-🚀 Aspiring AI/ML Engineer | Python Developer
-
-I am passionate about building real-world AI/ML projects like Spam Detection Systems and Chatbots. Currently, I am learning and improving my skills in Machine Learning and Deep Learning.
+- 🔭 I’m currently working on AI/ML Projects
+- 🌱 I’m currently learning Machine Learning & Deep Learning
+- 🤝 I’m looking to collaborate on AI Projects
+- 💬 Ask me about Python, ML Basics
+- ⚡ Fun fact: I love solving real-world problems using AI 😎
 
 ---
 
 🛠 Tech Stack
 
-- 🐍 Python
-- 📊 NumPy & Pandas
-- 🤖 Machine Learning (Scikit-learn)
-- 🧠 Deep Learning (Basics - TensorFlow)
-
----
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F26F21?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>---
 
 📌 Projects
 
-- 📧 Email Spam Detection System
-  Built using TF-IDF and Naive Bayes to classify emails as spam or not spam.
+🔹 Email Spam Detection System
+→ Classifies emails using TF-IDF & Naive Bayes
 
-- 🌦 Weather Prediction Model
-  Developed using Machine Learning algorithms to predict weather conditions.
+🔹 Weather Prediction Model
+→ Predicts weather using ML algorithms
 
-- 🤖 Hybrid Chatbot
-  Created a chatbot using JSON-based memory with intelligent response matching.
+🔹 Hybrid Chatbot
+→ JSON-based intelligent chatbot
 
 ---
 
 📊 GitHub Stats
 
-"Sunit's github stats" (https://github-readme-stats.vercel.app/api?username=sunitkumarsharma63904037-lab&show_icons=true&theme=radical)
-
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=sunitkumarsharma63904037-lab&layout=compact&theme=radical)
-
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sunitkumarsharma63904037-lab&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunitkumarsharma63904037-lab&layout=compact&theme=radical"/>
+</p>---
 
 🏆 GitHub Trophies
 
-"Trophies" (https://github-profile-trophy.vercel.app/?username=sunitkumarsharma63904037-lab&theme=radical)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sunitkumarsharma63904037-lab&theme=radical"/>
+</p>---
 
----
+📫 Connect with me
 
-📫 How to reach me
-
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: your-linkedin-link
-- 💻 GitHub: https://github.com/sunitkumarsharma63904037-lab
-
----
-
-⚡ Fun Fact
-
-I enjoy solving real-world problems using AI and continuously learning new technologies 🚀
+<p align="center">
+<a href="mailto:your-email@example.com">📧 Email</a> |
+<a href="#">💼 LinkedIn</a> |
+<a href="https://github.com/sunitkumarsharma63904037-lab">💻 GitHub</a>
+</p>
