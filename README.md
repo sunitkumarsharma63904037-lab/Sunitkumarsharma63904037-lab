@@ -39,14 +39,14 @@ Currently learning Machine Learning & Deep Learning 📚
 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sunit63-lab&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunit63-lab&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sunit63&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunit63&layout=compact&theme=radical"/>
 </p>---
 
 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sunit63-lab&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sunit63&theme=radical"/>
 </p>---
 
 📫 Connect with me
@@ -54,5 +54,5 @@ Currently learning Machine Learning & Deep Learning 📚
 <p align="center">
 <a href="mailto:sunitkumarsharma63904037@gmail.com">📧 Email</a> |
 <a href="#">💼 LinkedIn</a> |
-<a href="https://github.com/sunit63-lab">💻 GitHub</a>
+<a href="https://github.com/sunit63">💻 GitHub</a>
 </p>
